@@ -1,5 +1,5 @@
 # CalorieChecker
-Console app which provides the calorie information for a specified food.
+Console app that provides the calorie information for a specified food.
 This app connects to the Nutritionix API for the food information, **posting** a JSON string with the query to the /v2/natural/nutrients endpoint. 
 The image below displays the app in action, specifying "grapes" as the food.
 
